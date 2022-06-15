@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/pi/Desktop/HA_PLC_Logger/RunFilesAuto/HA_Logger.sh
+Name=HA PLC Logger Auto
+GenericName=PLC Logger Auto
+Comment=Run PLC Log
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Categories=Application;Network;
+Icon=/home/pi/Desktop/HA_PLC_Logger/Heartland-Automation-Logo.png
+Name[en_US]=HA PLC Logger Auto
